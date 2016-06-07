@@ -1,0 +1,2 @@
+some file version 1.2
+hello, world !
